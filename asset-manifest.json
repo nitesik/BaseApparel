@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BaseApparel/static/css/main.8f348704.css",
+    "main.js": "/BaseApparel/static/js/main.8baa70c2.js",
+    "static/js/787.9c371caa.chunk.js": "/BaseApparel/static/js/787.9c371caa.chunk.js",
+    "static/media/hero-desktop.jpg": "/BaseApparel/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
+    "static/media/JosefinSans-Regular.ttf": "/BaseApparel/static/media/JosefinSans-Regular.0e82e3d2c82cf1e38a33.ttf",
+    "static/media/hero-mobile.jpg": "/BaseApparel/static/media/hero-mobile.1afd055b71b78462d388.jpg",
+    "static/media/logo.svg": "/BaseApparel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bg-pattern-desktop.svg": "/BaseApparel/static/media/bg-pattern-desktop.964ebd4dd8014fd040d7b496f26b4537.svg",
+    "index.html": "/BaseApparel/index.html",
+    "static/media/icon-arrow.svg": "/BaseApparel/static/media/icon-arrow.4b3d2d93cd838720beda936cd05c7382.svg",
+    "main.8f348704.css.map": "/BaseApparel/static/css/main.8f348704.css.map",
+    "main.8baa70c2.js.map": "/BaseApparel/static/js/main.8baa70c2.js.map",
+    "787.9c371caa.chunk.js.map": "/BaseApparel/static/js/787.9c371caa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f348704.css",
+    "static/js/main.8baa70c2.js"
+  ]
+}
